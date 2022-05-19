@@ -1,2 +1,2 @@
 # jogodama
-Aplicação web de um jogo de damas usando HTML, CSS e javascript
+Aplicação web de um jogo de damas usando Vue, HTML, CSS e javascript
